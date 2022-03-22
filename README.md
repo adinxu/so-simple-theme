@@ -67,7 +67,7 @@
     - [Overriding Includes and Layouts](#overriding-includes-and-layouts)
     - [Customizing Sass (SCSS)](#customizing-sass-scss)
     - [Customizing JavaScript](#customizing-javascript)
-  - [图标](#font-awesome-icons)
+  - [Font Awesome图标](#font-awesome-icons)
   - [开发](#development)
     - [JavaScript Build Script](#javascript-build-script)
   - [贡献](#contributing)
